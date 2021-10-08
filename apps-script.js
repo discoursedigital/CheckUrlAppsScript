@@ -35,7 +35,7 @@ function checkUrl(url){
     //If there is ANY error set the value to false
     status = false;
   }
-  /return the value of status which will be an enum: True, False or null
+  //return the value of status which will be an enum: True, False or null
   return status;
 }
 
